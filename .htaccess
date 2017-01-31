@@ -1,0 +1,5 @@
+php_flag engine off
+#This will prevent apache from executing *.php-files
+
+AddType text/plain php
+
